@@ -1,0 +1,19 @@
+{
+	"name": "harver-exercise-se",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"@mapbox/blend": "^2.0.1",
+		"cataas-api": "^1.1.2",
+		"got": "^11.8.3"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
